@@ -1,11 +1,11 @@
-# Proyecto: NOMBRE
- # Unpaz 2021
+# Proyecto: Hit&Fly
+ # Unpaz 2022
 
  ## Descripción
 
  Juego basado en X
 
- Integrantes del proyecto: 
+ Integrantes del proyecto: Leonardo Maidana, Dario Grosso, Valentina Vazquez
 
  ## Instrucciones de ejecución
 
