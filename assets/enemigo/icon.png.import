@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/personaje.png-85efb99fcb3f41c2221ea93314d0f139.stex"
+path="res://.import/icon.png-ed28d44a7aa3b1373b320a33a34ffb75.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/personaje.png"
-dest_files=[ "res://.import/personaje.png-85efb99fcb3f41c2221ea93314d0f139.stex" ]
+source_file="res://assets/enemigo/icon.png"
+dest_files=[ "res://.import/icon.png-ed28d44a7aa3b1373b320a33a34ffb75.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=true
