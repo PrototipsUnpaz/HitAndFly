@@ -3,7 +3,7 @@
 
  ## Descripción
 
- Juego basado en X
+ Juego basado en "Balloon Fight"
 
  Integrantes del proyecto: Leonardo Maidana, Dario Grosso, Valentina Vazquez
 
