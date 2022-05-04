@@ -14,9 +14,15 @@ _global_script_class_icons={
 
 [application]
 
-config/name="clase_2_senales"
-run/main_scene="res://scenes/WorldTest.tscn"
+config/name="Hit And Fly"
+run/main_scene="res://scenes/levels/TestScenario.tscn"
 config/icon="res://assets/enemigo/icon.png"
+
+[display]
+
+window/size/width=1280
+window/size/height=720
+window/stretch/aspect="expand"
 
 [rendering]
 
