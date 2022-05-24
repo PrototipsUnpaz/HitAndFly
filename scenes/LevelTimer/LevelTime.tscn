@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://scenes/LevelTimer/LevelTime.gd" type="Script" id=1]
+
+[node name="LevelTimer" type="Label"]
+margin_right = 8.0
+margin_bottom = 14.0
+rect_scale = Vector2( 5, 5 )
+text = "60"
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Timer" type="Timer" parent="."]
+
+[connection signal="timeout" from="Timer" to="." method="_on_Timer_timeout"]
